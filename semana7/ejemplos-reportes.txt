@@ -1,0 +1,22 @@
+ejemplo 1
+[
+{
+"id": 2,
+"tipo": "Basuras",
+"descripcion": "Acumulación de residuos en el parque principal"
+},
+{
+"id": 3,
+"tipo": "Seguridad",
+"descripcion": "Falta de presencia policial en horas de la noche"
+}
+]
+ejemplo 2
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público",
+  "ubicacion": "Calle 10 con Carrera 5, barrio Centro",
+  "fecha_reporte": "2026-06-13",
+  "ciudadano": "Anónimo",
+  "prioridad": "Media"
+}
